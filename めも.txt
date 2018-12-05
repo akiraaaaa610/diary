@@ -1,0 +1,3 @@
+﻿Ringo is apple.
+Budou is not peach.
+Banana is banana.
